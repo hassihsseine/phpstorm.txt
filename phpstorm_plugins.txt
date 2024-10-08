@@ -1,0 +1,10 @@
+#.Env file support
+#.Ignor
+#.GitToolBox
+#.Emmet everywhere
+#.Laravel IDE
+#.Github Copilot
+#.intellivue
+#.php inspection
+#.Material UI
+#.Material Atom Icons
